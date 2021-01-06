@@ -1,6 +1,6 @@
-# Hello! I'm Sophie, I'm a web developer. 
+<img src="assets/ulam-t-crop.jpg">
 
-<img src="assets/sop-sqr.jpg" width="200" height="200">  <img src="assets/st-sqr.jpg" width="200" height="200">  <img src="assets/ulam.jpg" width="200" height="200">
+# Hello! I'm Sophie. I'm a web developer. 
 
 I love solving problems and building solutions with tidy, scalable, maintainable code. 
 
@@ -13,3 +13,5 @@ I'm interested in building applications that make abstract information easier to
 
 See my [portfolio site](https://ammersive.github.io/portfolio/) for more.  
 I'm currently available for work/collaboration: send me an [email](mailto:sophie.stammers@gmail.com).
+
+<img src="assets/sop-sqr.jpg" width="250" height="250">  <img src="assets/st-sqr.jpg" width="250" height="250">  <img src="assets/ulam.jpg" width="250" height="250">
