@@ -1,4 +1,4 @@
-<img src="assets/ulam-t-crop.jpg">
+<img src="assets/ulam-t-crop.jpg" width="100%">
 
 # Hello! I'm Sophie. I'm a web developer. 
 
