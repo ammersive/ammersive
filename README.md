@@ -1,6 +1,6 @@
 <img src="assets/ulam-t-crop.jpg">
 
-# Hello! I'm Sophie. I'm a web developer. 
+# Hello! I'm Sophie. I'm a full stack developer. 
 
 I love solving problems and building solutions with tidy, scalable, maintainable code. 
 
