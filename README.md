@@ -2,7 +2,7 @@
 
 # Hello! I'm Sophie. I'm a full stack developer. 
 
-I love solving problems and building solutions with tidy, scalable, maintainable code. 
+I love solving problems and building solutions with efficient, scalable, maintainable code. 
 
 With a background in academic research (philosophy and cognitive science), I'm a lifelong learner. I bring the experience of systematic thinking across a variety of problem domains, and the ability to communicate complex concepts to my web development work. 
 
