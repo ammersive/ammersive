@@ -2,10 +2,13 @@
 
 # Hello! I'm Sophie. I'm a software engineer. 
 
-With a background in academic research (philosophy and cognitive science), I'm a lifelong learner. I bring the experience of systematic thinking across a variety of problem domains, and the ability to communicate complex concepts to my web development work. 
+With a background in academic research (philosophy and cognitive science), I'm a lifelong learner. I bring the experience of systematic thinking across a variety of problem domains, and the ability to communicate complex concepts to my software development work. 
 
-## Main languages / frameworks:
+## Languages / frameworks:
 ### JavaScript | PHP | React/Redux | Laravel | HTML5 | CSS 
+
+## Currently learning:
+### Kotlin | Flutter 
 
 See my [portfolio site](https://ammersive.github.io/portfolio/) for more.  
 
